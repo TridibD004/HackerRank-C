@@ -20,6 +20,7 @@ I am going to upload all solutions for 4 ⭐ in C
 | Name | Type     | Solution                |
 | :-------- | :------- | :------------------------- |
 | hello-world-c | `Introduction` | https://github.com/TridibD004/HackerRank-C/blob/main/Hello_World.c |
+|playing-with-characters| `Introduction` | [https://github.com/TridibD004/HackerRank-C/blob/main/Playing_With_Characters.c] |
 
 
 ## 🛠 Skills
