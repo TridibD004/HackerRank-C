@@ -21,6 +21,7 @@ I am going to upload all solutions for 4 ⭐ in C
 | :-------- | :------- | :------------------------- |
 | hello-world-c | `Introduction` | https://github.com/TridibD004/HackerRank-C/blob/main/Hello_World.c |
 |playing-with-characters| `Introduction` | [https://github.com/TridibD004/HackerRank-C/blob/main/Playing_With_Characters.c] |
+|functions-in-c|`Introduction`|[https://github.com/TridibD004/HackerRank-C]|
 
 
 ## 🛠 Skills
