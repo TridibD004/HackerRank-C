@@ -17,11 +17,12 @@ I am going to upload all solutions for 4 ⭐ in C
   [https://www.hackerrank.com/dashboard]
 ```
 
-|Q.N.| Name | Type     |
-| :-------- | :------- | :------------------------- |
-|1.| hello-world-c | `Introduction` | 
-|2.|playing-with-characters| `Introduction` | 
-|3.|functions-in-c|`Introduction`|
+|Q.N.| Name | 
+| :-------- | :------- |
+|1.| hello-world-c |  
+|2.|playing-with-characters| 
+|3.|functions-in-c|
+|4.|Pointers in C|
 
 
 ## 🛠 Skills
